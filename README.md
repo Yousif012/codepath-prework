@@ -33,6 +33,9 @@ GIF created with Kap
   * being able to skip openings
   * the next episode feature
  
+App Idea:
+A travel ideas recommendations app that gives recommendations tailored to your location. This app would help you know what to do in a new city you're visiting. It will give you recommendations based on the location and possibly based on a survey that you do when you sign up for the app. The main feature I would want to implement is the signing-up process and the survey. Then, the other main feature is the recommendation algorithm. 
+ 
 ## Notes
 
 Describe any challenges encountered while building the app.
