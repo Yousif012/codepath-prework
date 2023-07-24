@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![](https://i.imgur.com/JL1snRo.gif)
 <img src='http://i.imgur.com/xOgeyLRh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
