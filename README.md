@@ -2,7 +2,7 @@
 
 Submitted by: **Your Name Here**
 
-**Name of your app** is an app that... [TODO] 
+**preworkAssignment** is an app that displays some text that describes my name, my university, and my current job title. The app also has a button that changes the background color of the app into a randomly generated color with each click.
 
 Time spent: **X** hours spent in total
 
