@@ -23,7 +23,16 @@ Here's a walkthrough of implemented user stories:
 GIF created with Kap
 
 ## App Brainstorming (Step 4)
-
+* BeReal
+  * The timer of when you're supposed to take a BeReal
+  * Reacting to BeReals with a selfie
+* Capital One
+  * Being able to generate Virtual Credit Cards
+  * Easy access to credit score
+* Netflix
+  * being able to skip openings
+  * the next episode feature
+ 
 ## Notes
 
 Describe any challenges encountered while building the app.
