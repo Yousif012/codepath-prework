@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *preworkAssignment*
 
-Submitted by: **Your Name Here**
+Submitted by: **Yosif Yosif**
 
 **preworkAssignment** is an app that displays some text that describes my name, my university, and my current job title. The app also has a button that changes the background color of the app into a randomly generated color with each click.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
